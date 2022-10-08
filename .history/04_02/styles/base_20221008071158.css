@@ -97,13 +97,10 @@ i {
 .hero img {
   margin: auto;
   padding-top: 1rem;
-  grid-column: 2/3;
-  grid-row: 1/2;
 }
 
 .hero article {
-  grid-column: 2/3;
-  grid-row: 2/3;
+
 }
 
 .hero h1 {
