@@ -312,10 +312,7 @@ nav .btn:hover {
 
 /* ######### 10a-ii. Navigation, Large screen rules ######### */
   .navWrap {
-    display: grid;
-    grid-template-columns: 100px minmax(auto, 1100px);
-    justify-content: center;
-    height: auto;
+
   }
 
   .navToggleLabel {
@@ -327,9 +324,7 @@ nav .btn:hover {
   }
 
   nav ul {
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
+
   }
 
   nav ul li a {
