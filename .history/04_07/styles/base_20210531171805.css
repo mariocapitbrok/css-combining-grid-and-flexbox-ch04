@@ -485,9 +485,6 @@ nav .btn:hover {
 /* ######### 10a-iv. CTA summaries, Large screen rules ######### */
   .cta {
     min-height: 200px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
   }
 
   .cta1 {
