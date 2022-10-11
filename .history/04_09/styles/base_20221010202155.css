@@ -595,9 +595,6 @@ nav .btn:hover {
   .team p {
     border-right: solid 1px #dedede;
     padding-right: 1rem;
-    order: 2;
-    grid-column: 1 / 2;
-    grid-row: 2 / 3;
   }
 
 }
