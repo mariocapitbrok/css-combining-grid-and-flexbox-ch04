@@ -525,7 +525,6 @@ section.problem {
 
 .action li p {
   padding: .5rem 1rem 1rem;
-  grid-column: 2 / -1;
 }
 
 .action li:nth-of-type(2) h1 {

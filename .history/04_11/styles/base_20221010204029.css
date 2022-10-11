@@ -519,13 +519,10 @@ section.problem {
   border-radius: 0 6px 0 0;
   color: #fff;
   padding: .5rem 1rem;
-  grid-column: 2 / -1;
-  align-self: start;
 }
 
 .action li p {
   padding: .5rem 1rem 1rem;
-  grid-column: 2 / -1;
 }
 
 .action li:nth-of-type(2) h1 {
