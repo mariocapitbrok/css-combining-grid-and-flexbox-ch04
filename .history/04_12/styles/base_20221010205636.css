@@ -760,7 +760,7 @@ section.problem {
   }
 
   .action ul li {
-    flex-basis: 48%;
+    flex-basis: 40%;
     grid-template-columns: 2fr 4fr;
   }
 

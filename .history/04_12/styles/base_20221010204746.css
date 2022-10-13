@@ -755,13 +755,9 @@ section.problem {
   }
 
   .action ul {
-    display: flex;
-    flex-wrap: wrap;
   }
 
   .action ul li {
-    flex-basis: 48%;
-    grid-template-columns: 2fr 4fr;
   }
 
 }
