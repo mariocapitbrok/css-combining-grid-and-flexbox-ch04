@@ -562,24 +562,15 @@ section.problem {
 }
 
 .galleryWrap {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  grid-auto-flow: row dense;
-  grid-gap: .5em;
 }
 
 .galleryWrap img[src$="_w.jpg"] {
-  grid-column-end: span 2;
 }
 
 .galleryWrap img[src$="_p.jpg"] {
-  grid-row-end: span 2;
 }
 
 .galleryWrap img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
 }
 
 /* ######### 9. Footer ######### */
